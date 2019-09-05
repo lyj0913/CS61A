@@ -4,7 +4,7 @@ Summer 2019 -- 8 weeks Length course
 At University Of California, Berkeley
 
 Overview: https://inst.eecs.berkeley.edu/~cs61a/su19/articles/about.html
-This page covers the course policies for CS 61A, the in-person version of the course. If you are looking for the course policies for CS W61A, the online version of the course, please see here
+This page covers the course policies for CS 61A, the in-person version of the course.
 
 The CS 61 series is an introduction to computer science, with particular emphasis on software and on machines from a programmer's point of view.
 
