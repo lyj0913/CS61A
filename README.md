@@ -1,7 +1,7 @@
 # CS61A
-# https://inst.eecs.berkeley.edu/~cs61a/su19/
-# Summer 2019 8 weeks Length course
-# University Of California, Berkeley
+https://inst.eecs.berkeley.edu/~cs61a/su19/
+Summer 2019 -- 8 weeks Length course
+University Of California, Berkeley
 
 Overview
 This page covers the course policies for CS 61A, the in-person version of the course. If you are looking for the course policies for CS W61A, the online version of the course, please see here
