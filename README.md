@@ -1,7 +1,6 @@
 # CS61A
-https://inst.eecs.berkeley.edu/~cs61a/su19/
-# Summer 2019 
-# 8 weeks Length course
+# https://inst.eecs.berkeley.edu/~cs61a/su19/
+# Summer 2019 8 weeks Length course
 # University Of California, Berkeley
 
 Overview
