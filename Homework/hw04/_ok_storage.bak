@@ -1,0 +1,6 @@
+'make_fib-correct', (0, 70)
+'make_withdraw-correct', (512, 70)
+'VendingMachine-correct', (1024, 70)
+'remove_all-correct', (1536, 70)
+'generate_paths-correct', (2048, 70)
+'Mint-correct', (2560, 70)
