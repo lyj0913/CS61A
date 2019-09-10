@@ -10,6 +10,7 @@ Pig Out. If any of the dice outcomes is a 1, the current player's score for the 
 Example 1: The current player rolls 7 dice, 5 of which are 1's. They score 1 point for the turn.
 
 Example 2: The current player rolls 4 dice, all of which are 3's. Since Pig Out did not occur, they score 12 points for the turn.
+
 Free Bacon. A player who chooses to roll zero dice scores points equal to ten minus the minimum of of the ones and tens digit of the opponent's score.
 
 Example 1: The opponent has 13 points, and the current player chooses to roll zero dice. The minimum of 1 and 3 is 1, so the current player gains 10 - 1 = 9 points.
